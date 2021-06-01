@@ -1,0 +1,15 @@
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csprojAssemblyReference.cache
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfo.cs
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.deps.json
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.json
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.dev.json
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\Users\merta\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
